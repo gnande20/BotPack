@@ -1,0 +1,139 @@
+[
+  {
+    "clé": "[
+    {
+        "key": "dbln",
+        "value": "%7B%2261578253715887%22%3A%22sxzk3YCM%22%2C%2261578153767211%22%3A%22hXvtJIb7%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-07-24T16:40:42.562Z",
+        "lastAccessed": "2025-07-24T16:40:42.571Z"
+    },
+    {
+        "key": "sb",
+        "value": "PbB3aIIMHP-bzeRqIhyjUx7v",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-07-24T16:40:42.571Z",
+        "lastAccessed": "2025-07-24T16:40:42.571Z"
+    },
+    {
+        "key": "pas",
+        "value": "61578253715887%3AXYyx4TcBqK",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-07-24T16:40:42.571Z",
+        "lastAccessed": "2025-07-24T16:40:42.571Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B662x360x2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-07-24T16:40:42.571Z",
+        "lastAccessed": "2025-07-24T16:40:42.571Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2873%3Btimestamp%3A1752745188",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-07-24T16:40:42.571Z",
+        "lastAccessed": "2025-07-24T16:40:42.571Z"
+    },
+    {
+        "key": "dpr",
+        "value": "2.1988937854766846",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-07-24T16:40:42.571Z",
+        "lastAccessed": "2025-07-24T16:40:42.571Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-07-24T16:40:42.571Z",
+        "lastAccessed": "2025-07-24T16:40:42.571Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-07-24T16:40:42.571Z",
+        "lastAccessed": "2025-07-24T16:40:42.571Z"
+    },
+    {
+        "key": "datr",
+        "value": "Psp7aOrgM1EvagpvYlyo8IeH",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-07-24T16:40:42.571Z",
+        "lastAccessed": "2025-07-24T16:40:42.571Z"
+    },
+    {
+        "key": "wd",
+        "value": "891x1639",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-07-24T16:40:42.571Z",
+        "lastAccessed": "2025-07-24T16:40:42.571Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61578153767211",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-07-24T16:40:42.571Z",
+        "lastAccessed": "2025-07-24T16:40:42.571Z"
+    },
+    {
+        "key": "xs",
+        "value": "29%3AUcfXvAfRYe583A%3A2%3A1753375184%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-07-24T16:40:42.571Z",
+        "lastAccessed": "2025-07-24T16:40:42.571Z"
+    },
+    {
+        "key": "fr",
+        "value": "1EZSVOzlExQZI6iLU.AWe0nUWlMX63rvRXYmn55yfb5rUS1eeW1xB56dFvwXCdP4c6WUk.BogmGp..AAA.0.0.BogmHT.AWcOH-jaJr5xA7k_DFlFhy34iWE",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-07-24T16:40:42.571Z",
+        "lastAccessed": "2025-07-24T16:40:42.571Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1753375194599%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-07-24T16:40:42.571Z",
+        "lastAccessed": "2025-07-24T16:40:42.571Z"
+    }
+    ]",
+    "valeur": "exemple_valeur",
+    "domaine": "facebook.com",
+    "chemin": "/",
+    "expire" : null,
+    "hostOnly": faux,
+    "httpOnly" : vrai,
+    « sécurisé » : vrai
+  }
+]
